@@ -1,2 +1,2 @@
 # newproject
-new repo
+new repositoty
